@@ -1,0 +1,16 @@
+{
+  "model": "Random Forest",
+  "threshold": 0.3109898185804259,
+  "predictions": [
+    {
+      "row": 1,
+      "default_score": 0.032915,
+      "above_demo_threshold": false
+    },
+    {
+      "row": 2,
+      "default_score": 0.506733,
+      "above_demo_threshold": true
+    }
+  ]
+}
